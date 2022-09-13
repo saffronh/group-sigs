@@ -1,3 +1,11 @@
+# ZK group signatures
+
+Created by following [this blog post](https://0xparc.org/blog/zk-group-sigs).
+
+Repo forked from [circom-starter](https://github.com/0xPARC/circom-starter).
+
+---
+
 # circom-starter
 
 A basic circom project using [Hardhat](https://github.com/nomiclabs/hardhat) and [hardhat-circom](https://github.com/projectsophon/hardhat-circom). This combines the multiple steps of the [Circom](https://github.com/iden3/circom) and [SnarkJS](https://github.com/iden3/snarkjs) workflow into your [Hardhat](https://hardhat.org) workflow.

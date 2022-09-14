@@ -31,6 +31,10 @@ module.exports = {
         protocol: "groth16",
       },
       {
+        name: "sign-multiple",
+        protocol: "groth16",
+      },
+      {
         name: "test",
         protocol: "groth16",
       },
